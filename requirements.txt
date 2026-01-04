@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+xgboost
+matplotlib
+seaborn
+torch
+torchvision
+opencv-python
+tqdm
+requests
+python-dotenv
+Pillow
